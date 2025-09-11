@@ -1,0 +1,9 @@
+.pink-default,
+.pink-large {
+    background-color: rgb(255, 146, 164);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.pink-large {
+    font-size: 24px;
+}
